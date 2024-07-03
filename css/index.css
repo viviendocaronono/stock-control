@@ -1,0 +1,15 @@
+body {
+    margin: auto;
+    min-height: 200vh;
+    background-color: rgb(79, 79, 184);
+}
+
+section {
+    background-color: white;
+    margin-top: 15vh;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
